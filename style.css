@@ -1,0 +1,28 @@
+.country-label {
+  font-size: 14px;
+  font-weight: bold;
+  color: black;
+  background: none;
+  border: none;
+  text-shadow: 1px 1px 2px white;
+}
+/* Add this CSS to style the numbered markers */
+.numbered-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: red;
+  width: 0px;
+  height: 50px;
+  border-radius: 50%;
+  border: 1px solid #ccc;
+  font-size: 15px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.number {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
